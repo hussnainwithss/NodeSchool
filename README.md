@@ -1,3 +1,3 @@
 # NodeSchool-JS
  
-Repository contains my implementation of different workshops by NodeSchool. (https://nodeschool.io/)
+Repository contains my implementations of different workshops by NodeSchool. (https://nodeschool.io/)
